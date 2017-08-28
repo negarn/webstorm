@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="javascript" type="JavaScript" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern="adf" type="PLAIN_TEXT" />
+      <mapping pattern="asdf.css" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="Template Toolkit" />
+    </extensionMap>
+  </component>
+</application>
