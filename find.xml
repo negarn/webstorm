@@ -5,7 +5,6 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*html.tt</mask>
       <mask>*.jhtml.tt</mask>
@@ -16,12 +15,9 @@
       <mask>*json</mask>
       <mask>*.json</mask>
       <mask>*.s</mask>
-      <mask>*.sc</mask>
       <mask>h</mask>
       <mask>*.html.ep</mask>
       <mask>*.html.e</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.html.tt</mask>
       <mask>*.html.t</mask>
       <mask>*.html.</mask>
@@ -34,9 +30,12 @@
       <mask>*.p</mask>
       <mask>*.hs</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
