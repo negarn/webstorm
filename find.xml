@@ -18,8 +18,6 @@
       <mask>*.html.e</mask>
       <mask>*</mask>
       <mask>*.t</mask>
-      <mask>*.pm</mask>
-      <mask>*.p</mask>
       <mask>*.hs</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
@@ -31,9 +29,11 @@
       <mask>*.html.tt</mask>
       <mask>*.html.</mask>
       <mask>*.html</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pm</mask>
     </recentFileMasks>
   </component>
 </application>
