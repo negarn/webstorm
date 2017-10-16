@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html.tt" />
     <recentFileMasks>
       <mask>*.jshtml.tt</mask>
       <mask>json*.</mask>
@@ -22,6 +23,11 @@
       <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.htm</mask>
@@ -29,11 +35,6 @@
       <mask>*.html.</mask>
       <mask>*.html.t</mask>
       <mask>*.html.tt</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
