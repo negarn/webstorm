@@ -22,20 +22,20 @@
       <mask>*.s</mask>
       <mask>*.pm</mask>
       <mask>*.p</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.htm</mask>
-      <mask>*.html</mask>
-      <mask>*.html.</mask>
       <mask>*.html.t</mask>
       <mask>*.html.tt</mask>
+      <mask>*.html.</mask>
+      <mask>*.html</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
