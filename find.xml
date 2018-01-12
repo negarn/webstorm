@@ -26,14 +26,14 @@
       <mask>*.html</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
-      <mask>*.jsx</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.jsx</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
