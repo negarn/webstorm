@@ -31,9 +31,9 @@
       <mask>*.scs</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.scss</mask>
       <mask>*.jsx</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
