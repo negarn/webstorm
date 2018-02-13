@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.json</mask>
       <mask>h</mask>
       <mask>*.html.ep</mask>
       <mask>*.html.e</mask>
@@ -33,6 +32,7 @@
       <mask>*.j</mask>
       <mask>*.scss</mask>
       <mask>*.jsx</mask>
+      <mask>|A}+_|~~JHK</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
