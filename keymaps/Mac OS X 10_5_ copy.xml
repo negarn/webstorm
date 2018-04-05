@@ -14,6 +14,7 @@
   <action id="EditorTextStart">
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
+  <action id="Exit" />
   <action id="RemoteHostView.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
