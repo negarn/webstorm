@@ -13,5 +13,6 @@
     <mask>*.mxml</mask>
     <mask>*.jsx</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
