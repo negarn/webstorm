@@ -11,8 +11,8 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.scss</mask>
     <mask>*.jsx</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
