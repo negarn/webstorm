@@ -14,5 +14,6 @@
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.jsx</mask>
+    <mask>*.spec.js</mask>
   </component>
 </application>
