@@ -8,6 +8,11 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="EditorAddOrRemoveCaret" />
+  <action id="EditorAddRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="shift meta alt button1" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
