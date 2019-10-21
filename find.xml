@@ -13,8 +13,8 @@
     <mask>*.mxml</mask>
     <mask>*.spec.js</mask>
     <mask>*.md</mask>
-    <mask>*.scss</mask>
     <mask>*.jsx</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
